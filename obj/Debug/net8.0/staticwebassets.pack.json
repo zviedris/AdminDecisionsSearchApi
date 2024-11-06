@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\scripts\\search.js",
+      "PackagePath": "staticwebassets\\scripts\\search.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AdminDecisionsSearchApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AdminDecisionsSearchApi.props",
+      "PackagePath": "build\\AdminDecisionsSearchApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AdminDecisionsSearchApi.props",
+      "PackagePath": "buildMultiTargeting\\AdminDecisionsSearchApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AdminDecisionsSearchApi.props",
+      "PackagePath": "buildTransitive\\AdminDecisionsSearchApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

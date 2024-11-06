@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ItRRI7wExtagDZfpBQ1MuIv2aZDfQNdvjJm4E6ck/Ts=",
+  "Source": "AdminDecisionsSearchApi",
+  "BasePath": "_content/AdminDecisionsSearchApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AdminDecisionsSearchApi\\wwwroot",
+      "Source": "AdminDecisionsSearchApi",
+      "ContentRoot": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\",
+      "BasePath": "_content/AdminDecisionsSearchApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\index.html",
+      "SourceId": "AdminDecisionsSearchApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\",
+      "BasePath": "_content/AdminDecisionsSearchApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\scripts\\search.js",
+      "SourceId": "AdminDecisionsSearchApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\programming\\AdminDecisionsSearchApi\\wwwroot\\",
+      "BasePath": "_content/AdminDecisionsSearchApi",
+      "RelativePath": "scripts/search.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\search.js"
+    }
+  ]
+}
